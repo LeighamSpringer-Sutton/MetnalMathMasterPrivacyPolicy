@@ -3,7 +3,7 @@
 
 
 ###### Privacy Policy
-Leigham Springer-Sutton built the Mental Math Master app as a Freemium app. This SERVICE is provided by Leigham Springer-Sutton at no cost and is intended for use as is.
+PinkMind INC built the Mental Math Master app as a Freemium app. This SERVICE is provided by PinkMind INC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -58,4 +58,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 ###### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Leighamss@hotmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact at pinkmindInc@gmail.com.
